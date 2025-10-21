@@ -1,0 +1,7 @@
+num1 = int(input())
+num2 = int(input())
+num2_list = list(map(int, str(num2)))
+print(num1 * num2_list[2])
+print(num1 * num2_list[1])
+print(num1 * num2_list[0])
+print(num1 * num2)
