@@ -7,4 +7,4 @@ for _ in range(N):
 if(total_sum == X):
     print("Yes")
 else:
-    print("No") 
+    print("No")
