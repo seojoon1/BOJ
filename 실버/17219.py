@@ -1,4 +1,4 @@
-#이거 푸키먼 아님?
+#이거 푸키먼 아님? 아니였고
 import sys
 input = sys.stdin.readline
 
